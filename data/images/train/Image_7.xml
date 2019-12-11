@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Image_7.JPG</filename>
+	<path>/home/pedro/object_detection/data/images/test/Image_7.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roquette_sauvage_red_veined</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>1</ymin>
+			<xmax>668</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
